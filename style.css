@@ -14,7 +14,7 @@ body {
 }
 #header {
    margin-bottom: 32px; 
-   align-items: center;
+   text-align: center;
 }
 .headerName {
     margin-bottom: 0px;
@@ -31,5 +31,5 @@ body {
 }
 #footer {
     margin-top: 64px;
-    align-items: center;
+    text-align: center;
 }
